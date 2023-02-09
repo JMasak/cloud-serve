@@ -6,16 +6,16 @@ weight = 1
 rtl = false
 
 title = "Cloud-Serve"
-# logo = "img/logo.png"
+logo = "img/WaiterHopper.png"
 description = "only for (my) personal use, please move on"
-copyright = "Copy, _right?_ :thinking_face:"
+# copyright = "Copy, _right?_ :thinking_face:"
 
 dateFormat = "2. January 2006"
 
-# [author]
-#   name = "Your name here"
-#   image = "img/blowfish_logo.png"
-#   headline = "I'm only human"
+[author]
+  name = "Cloud-Serve"
+  image = "img/CloudWaiterMinimal.png"
+  headline = "only for (my) personal use, please move on"
 #   bio = "A little bit about you"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
