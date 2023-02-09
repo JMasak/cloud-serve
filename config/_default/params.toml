@@ -24,7 +24,7 @@ disableImageOptimization = false
 # smartTOCHideUnfocusedChildren = true
 
 [header]
-  layout = "fixed" # valid options: basic, fixed
+  layout = "basic" # valid options: basic, fixed
 
 [footer]
   showMenu = false
@@ -34,8 +34,8 @@ disableImageOptimization = false
   showScrollToTop = true
 
 [homepage]
-  layout = "profile" # valid options: page, profile, hero, card, background, custom
-  #homepageImage = "IMAGE.jpg" # used in: hero, and card
+  layout = "hero" # valid options: page, profile, hero, card, background, custom
+  homepageImage = "img/Clouds.png" # used in: hero, and card
   showRecent = false
   showRecentItems = 5
   showMoreLink = false
@@ -101,8 +101,8 @@ disableImageOptimization = false
   cardView = false
 
 [term]
-  showHero = false
-  # heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  showHero = true
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   showBreadcrumbs = false
   showViews = false
   showLikes = false
